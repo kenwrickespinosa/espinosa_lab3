@@ -1,0 +1,19 @@
+.category {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    border-style: solid;
+    border-width: 10px;
+    width: 75px;
+    margin: 75px;
+    padding: 75px;
+    border-top-color: red;
+    border-bottom-color: blue;
+    border-top-style: solid;
+    border-right-style: solid;
+    border-left-style: dotted;
+    border-bottom-style: dotted;
+}
+
+#divid {
+    display: inline;
+}
